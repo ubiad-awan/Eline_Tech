@@ -1,3 +1,3 @@
 # Eline_Tech
-First Github repository
+First Github repository.
 Author-Ubaid Ur Rehman
